@@ -1,6 +1,6 @@
 
 ##### Hello, I am Shreya Nayak.
-##A passionate web developer
+## A passionate web developer
 
 
 ## 🌐 Socials:
