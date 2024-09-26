@@ -1,6 +1,6 @@
 
 ## Hello, I am Shreya Nayak.
-## A passionate web developer
+## I am a detail-oriented and analytical fresher with a passion for uncovering insights from data. 
 
 
 ## 🌐 Socials:
