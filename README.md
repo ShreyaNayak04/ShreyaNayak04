@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreya Nayak</h1>
-<h3 align="center">I am a detail-oriented and analytical fresher with a passion for uncovering insights from data.</h3>
+<h3 >I am a detail-oriented and analytical fresher with a passion for uncovering insights from data.</h3>
 
 ### Python | SQL | Excel | Statistics | PowerBI 
 
