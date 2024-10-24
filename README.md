@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreya Nayak</h1>
-<h3 >I am a detail-oriented and Data Analytics and Machine Learning Enthusiast.</h3>
+<h3 >I am a detail-oriented Data Analytics and Machine Learning Enthusiast.</h3>
 
 ### Python | SQL | Excel | Statistics | PowerBI | Machine Learning | Data Analysis | R
 
