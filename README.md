@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreya Nayak</h1>
 <h3 >I am a detail-oriented Data Analytics and Machine Learning Enthusiast.</h3>
 
-### Python | SQL | Excel | Statistics | PowerBI | Machine Learning | Data Analysis | R
+### Python | R | SQL | Excel | Statistics | PowerBI | Tableau | Machine Learning | Data Analysis 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammshreya&label=Profile%20views&color=0e75b6&style=flat" alt="ammshreya" /> </p>
 
