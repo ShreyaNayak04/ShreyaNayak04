@@ -1,17 +1,103 @@
-<h1 align="center">Hi 👋, I'm Shreya Nayak</h1>
-<h3 >I am a detail-oriented Data Analytics and Machine Learning Enthusiast.</h3>
+# Hi there, I'm Shreya Nayak 👋
 
-### Python | R | SQL | Excel | Statistics | PowerBI | Tableau | Machine Learning | Data Analysis 
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ammshreya&label=Profile%20views&color=0e75b6&style=flat" alt="ammshreya" /> </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=8B9DFF&center=true&vCenter=true&width=700&lines=Salesforce+Developer+%F0%9F%92%BB;Data+Analytics+Professional+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Solutions+with+Code+%E2%9C%A8" alt="Animated introduction" />
 
-- 📫 How to reach me **shreyunayak24@gmail.com**
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=ShreyaNayak04&style=for-the-badge&color=8B9DFF" alt="Profile views" />
+  </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/Shreya9695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/Shreya9695" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/shreya-nayak-959075237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/shreya-nayak-959075237" height="30" width="40" /></a>
+</div>
+
+## 👩‍💻 About Me
+
+I'm a software professional with **2 years of experience**, combining Salesforce development with data analytics and machine learning.
+
+- 💼 **1 year of experience in Data Analytics**
+- ☁️ **1 year of experience as a Salesforce Developer**
+- ⚡ Experienced in Apex, Lightning Web Components (LWC), SOQL, and Salesforce automation.
+- 📊 Skilled in Python, SQL, data analysis, and visualization.
+- 🤖 Interested in machine learning, intelligent applications, and solving real-world problems with technology.
+- 🌱 Currently strengthening my Salesforce development skills and preparing for the Salesforce Administrator certification.
+- 🎯 Passionate about continuous learning, clean code, and building impactful solutions.
+
+## 🛠️ Tech Stack
+
+### ☁️ Salesforce Development
+
+<p>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
+  <img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex" />
+  <img src="https://img.shields.io/badge/Lightning_Web_Components-0176D3?style=for-the-badge&logo=salesforce&logoColor=white" alt="LWC" />
+  <img src="https://img.shields.io/badge/SOQL-032D60?style=for-the-badge&logo=salesforce&logoColor=white" alt="SOQL" />
+  <img src="https://img.shields.io/badge/Flows-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Flows" />
+  <img src="https://img.shields.io/badge/REST_APIs-555555?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+### 📊 Data Analytics & Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+</p>
+
+### 🤖 Machine Learning & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-8A2BE2?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+## 🚀 Featured Projects
+
+Here are some areas I've explored through hands-on projects:
+
+| Project | Description | Technologies |
+|---|---|---|
+| 🩺 PCOS Detection | Machine learning models for PCOS prediction | Python, Scikit-learn |
+| 📄 Resume Screening | NLP-based resume analysis and screening | Python, NLP, ML |
+| 🌧️ Rainfall Prediction | Predictive modeling using weather data | Python, ML |
+| 😷 Mask Detection | Image-based face mask detection | CNN, TensorFlow, Keras |
+| 💳 Credit Card Fraud Detection | Classification of potentially fraudulent transactions | Python, ML, Flask |
+| 📊 Analytics Dashboards | Data analysis and interactive business insights | SQL, Power BI, Tableau |
+
+> Replace these descriptions with links to the corresponding repositories once you've verified that each project is publicly available.
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShreyaNayak04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaNayak04&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+  <br />
+
+  <img src="https://streak-stats.demolab.com?user=ShreyaNayak04&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+  <a href="mailto:shreyunayak24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/" >
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <br /><br />
+
+  **✨ Learning. Building. Improving. ✨**
+
+</div>
